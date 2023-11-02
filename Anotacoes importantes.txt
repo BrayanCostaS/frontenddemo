@@ -1,0 +1,7 @@
+em uma href
+SRC= local da imagem
+ALT = descrição quando a img nao é carregada
+WIDTH = largura
+
+<hr> cria linha horizontal entre os elementos
+<b> negrito

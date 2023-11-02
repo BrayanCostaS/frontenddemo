@@ -1,0 +1,46 @@
+
+body {
+    background: #DCDCDC ;
+    color: black
+}
+
+.tudo{
+    display: flex;
+    flex-direction:row;
+    align-content: center;
+    flex-wrap: wrap;  
+    justify-content: space-around;
+    text-align: center;    
+}
+
+h1 {
+    background-color: rgb(152, 108, 255);
+    text-align: center;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h2 {    
+    text-decoration: none;
+    background-color: gray;
+    box-shadow: 0px 5px 5px ;
+    text-align: center;
+    cursor:pointer;
+}
+img{
+    width: 40%;
+    border-radius: 5px;
+    margin: 5px;
+    margin-bottom: 0;
+    box-shadow: 0px 5px 5px ;
+    
+}
+
+h2:hover{background-color: aqua;}
+
+
